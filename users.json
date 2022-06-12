@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "username": "john",
+    "firstName": "John",
+    "lastName": "Doe",
+    "gender": "Male",
+    "profileURL": "img/fotouomo.jpg",
+    "email": "john.doe@gmail.com",
+    "shortDescription": "Software expert",
+    "longDescription": "Contact John if your pc feels slow, or if you need any tip about Windows, Ios or Linux"
+  },
+  {
+    "id": 2,
+    "username": "jane",
+    "firstName": "Jane",
+    "lastName": "Williams",
+    "gender": "Female",
+    "profileURL": "img/immagineragazza.jpg",
+    "email": "jane.doe@gmail.com",
+    "shortDescription": "Hardware expert",
+    "longDescription": "Contact Jane if you need to repair your pc or if you need new hardware components"
+  }
+]
